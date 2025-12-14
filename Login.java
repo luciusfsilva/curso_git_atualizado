@@ -3,6 +3,7 @@ public Class Login {
 		System.out.println("Login atual")
 		loginGenerico();
 		loginDevelop();
+		loginHMP();
 	}
 	
 	public static void loginGenerico() {
@@ -10,6 +11,10 @@ public Class Login {
 	}
 	
 	public static void loginDevelop() {
+		System.out.println("Login develop")
+	}
+	
+	public static void loginHMP() {
 		System.out.println("Login develop")
 	}
 }
