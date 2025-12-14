@@ -1,3 +1,5 @@
 Testando novo commit
 
 Incluindo informações novo arquivo
+
+corrigido null pointer
