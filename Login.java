@@ -22,4 +22,8 @@ public Class Login {
 	public static void loginPRD() {
 		System.out.println("Login PRD")
 	}
+	
+	public static void imprimirNome() {
+		System.out.println("Nome")
+	}
 }
