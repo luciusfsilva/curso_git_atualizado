@@ -5,6 +5,8 @@ public Class Login {
 		loginDevelop();
 		loginHMP();
 		loginPRD();
+		imprimirNome();
+		imprimirNomeDevelop();
 	}
 	
 	public static void loginGenerico() {
@@ -25,5 +27,9 @@ public Class Login {
 	
 	public static void imprimirNome() {
 		System.out.println("Nome")
+	}
+	
+	public static void imprimirNomeDevelop() {
+		System.out.println("NomeDevelop")
 	}
 }
